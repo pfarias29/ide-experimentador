@@ -4,8 +4,8 @@ Funcionalidade: Executar experimento
     Quero poder executar um experimento
 
 Contexto: 
-    Dado que estou na página de um experimento
-    Entao quero executar esse experimento
+    Dado que estou logado na minha conta
+    Entao quero executar um experimento
 
 Cenario: Não estou na página de nenhum experimento
     Dado que existe pelo menos um experimento no menu lateral

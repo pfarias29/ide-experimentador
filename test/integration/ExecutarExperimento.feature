@@ -20,7 +20,7 @@ Cenario: Estou na página de algum experimento
     E que estou ná pagina de um experimento
     Quando eu clicar no botão de executar de outro experimento
     Entao quero ver a página desse experimento com os cards
-    E o botão de executar dever virar um potão de parar
+    E o botão de executar dever virar um botão de parar
     E deverão ser executados todos os testes disponíveis, caso existam
 
 Cenario: Experimento sem testes disponíveis

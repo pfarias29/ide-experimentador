@@ -4,13 +4,13 @@ Funcionalidade: Parar experimento
     Quero poder parar a execução de um experimento
 
 Cenario: Existe um teste de experimento em execução
-    Dado que estou logado na minha conta
+    Dado que estou na página de um experimento
     E que existe um teste de um experimento em execução
     Quando eu clicar no botão "stopTestButton"
     Então devo ver uma notificação de "Execução de teste interrompida"
     E o teste interrompido deve parar a execução
 
 Cenario: Não existem testes de experimento em execução
-    Dado que estou logado na minha conta
+    Dado que estou na página de um experimento
     E que não existe nenhum teste de experimento em execução
     Então não deve haver um botão "stopTestButton" disponível
